@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="000_hello_world/000_hello_world.vcxproj" Id="b7204f2e-0e1a-4eb9-96ec-1c9182ee8a89" />
+  <Project Path="001_C代码的执行过程/001_C代码的执行过程.vcxproj" Id="3b8d4c17-3966-480a-bbd2-c061a9d613a3" />
+</Solution>
